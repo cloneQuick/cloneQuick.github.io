@@ -405,7 +405,7 @@ img {
 .modal-content {
     margin: auto;
     display: block;
-    width: 60%;
+    width: 40%;
     opacity: 1 !important;
     max-width: 1200px;
 }
